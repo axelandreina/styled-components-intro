@@ -1,0 +1,1 @@
+cambiale el nombre de theme a lightTheme crea otro que sea darkTheme podrias cambiarlos usando react state
